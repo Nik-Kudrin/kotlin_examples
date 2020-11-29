@@ -1,0 +1,11 @@
+devices:
+  - name: 1
+    product: sadf
+    model: --asdf
+    device: ljsdf
+    transportId: 23
+  - name: 2
+    product: ;lkjlasfd
+    model: 09023nfsadf
+    device: __=a-sdf0asdf
+    transportId: 1
